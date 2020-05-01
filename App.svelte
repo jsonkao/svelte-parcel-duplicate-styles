@@ -1,0 +1,9 @@
+<div></div>
+
+<style>
+  div {
+    background: red;
+    width: 100px;
+    height: 100px;
+  }
+</style>
